@@ -1,0 +1,55 @@
+## Research
+
+My current research focuses on developing techinical interventions which enable the governance of increasingly agentic AI systems, with a particular interest in the pre-deployment auditing and the post-deployment monitoring of LLM agents.
+
+Previously I've worked on:
+
+- **Adversarial Robustness**: Can we develop new threat models for adversarial robustness, that better capture what we care about? How can we make adversarial training more efficient?
+- **LLM Generalization**: What are the limits of LLM generalization? How does strong generalisation ability link to concerns around the situational awareness of these systems?
+- **LLM Evals**: Do AI systems pose biosecurity risks? How cam we effectively measure the capabilities of LLM agents?
+
+Right now, I'm thinking about:
+
+- **Improving LLM agents:** What is the equivalent of DPO (i.e. an effective, simple, scalable finetuning technique) for LLM agents? What should we aim for when designing an evaluation suite that allows for fast iteration on the capabilities of LLM agents?
+- **Monitoring agentic AI systems:** Which technical frameworks are needed to effectively monitor wide deployments of AI agents? Can we design monitoring frameworks which don't centralize power?
+- **Ensuring global access to AI:** How can we accelerate the global south's participation in AI development? What role should western goverments play in widely spreading the benefits of AI?
+
+Please [reach out](mailto:max.a.kaufmann@gmail.com) if you think we could collaborate!
+
+## Works
+
+<head>
+    <link rel="stylesheet" href="../site_libs/bootstrap/bootstrap.min.css">
+</head>
+
+<strong>The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"</strong><br>
+Lukas Berglund, Meg Tong, Max Kaufmann, Mikita Balesni, Asa Cooper Stickland, Tomasz Korbak, Owain Evans<br>
+<a href="https://arxiv.org/abs/2309.12288" target="_parent">[arxiv]</a>
+<a href="https://twitter.com/OwainEvans_UK/status/1698683186090537015" target="_parent">[tweet]</a><br>
+
+<strong>Taken out of context: On measuring situational awareness in LLMs</strong><br>
+Lukas Berglund\*, Asa Cooper Stickland\*, Mikita Balesni\*, Max Kaufmann\*, Meg Tong\*, Thomas Korbak, D. Kokotajlo, O. Evans<br>
+<a href="https://arxiv.org/abs/2309.00667" target="_parent">[arxiv]</a>
+<a href="https://x.com/OwainEvans_UK/status/1705285631520407821" target="_parent">[tweet]</a><br>
+
+<strong>Testing Robustness Against Unforeseen Adversaries</strong><br>
+Max Kaufmann\*, Daniel Kang\*, Yi Sun\*, Steven Basart, Xuwang Yin, Mantas Mazeika, Akul Arora, Adam Dziedzic, Franziska Boenisch, Tom Brown, Jacob Steinhardt, Dan Hendrycks<br>
+<a href="https://arxiv.org/abs/1908.08016" target= "_parent" >[arxiv]</a><br>
+
+<strong>Efficient Adversarial Training With Data Pruning</strong><br>
+Max Kaufmann, Yiren Zhao, Ilia Shumailov, Robert Mullins, Nicolas Papernot<br>
+<a href="https://arxiv.org/abs/2207.00694" target="_parent" >[arxiv]</a><br>
+
+
+<strong>Dual-use biology capabilities across model scale</strong><br>
+Max Kaufmann, Gryphon Scientific, Jonas Sandbrink<br>
+<i>Presented to policymakers at the 2023 International AI Safety Summit.</i>
+<br>
+
+<strong>MatAttack: Differential materials for adversarial attacks</strong><br>
+Dron Hazra\*, Max Kaufmann*, Dan Hendrycks<br><i> forthcoming </i>
+
+
+
+
+  
