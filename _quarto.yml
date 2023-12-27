@@ -4,6 +4,7 @@ project:
 website:
   title: "Max Kaufmann"
   google-analytics: $GOOGLE_ANALYTICS_KEY
+  favicon: assets/favicon-32x32.png
   navbar:
     left:
       - href: index.qmd
