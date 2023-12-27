@@ -1,0 +1,66 @@
+---
+title: "Max Kaufmann"
+subtitle: Research Engineer @ [UK AISI](https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute)
+image: assets/me.jpg
+about:
+  template: trestles
+  links:    
+    - text: "{{< iconify academicons google-scholar size=xl >}}"
+      url: "https://scholar.google.com/citations?user=S-n5GmEAAAAJ"
+    - text: "{{< iconify mdi github size=xl >}}"
+      url: https://github.com/max-kaufmann
+    - text: "{{< iconify ant-design linkedin-filled size=xl >}}"
+      url: "https://www.linkedin.com/in/max-kaufmann-713286209/"
+    - text: "{{< iconify ri twitter-fill size=xl >}}"
+      url: "https://twitter.com/Max_A_Kaufmann"
+    - text:  "{{< iconify material-symbols mail-outline size=xl >}}"
+      url: "mailto:max.a.kaufmann@gmail.com"
+    
+comments: false
+---
+
+<style>
+iframe {
+    width: 100%;
+    height: 500px; /* Adjust the height as needed */
+    overflow-y: scroll; /* Ensures the scrollbar is shown */
+    border: 1px solid #CCCCCC; /* Sleek grey border */
+    box-shadow: 0 0 8px 0 rgba(0,0,0,0.1); /* Optional: adds shadow for depth */
+    border-radius: 2px; /* Optional: slightly rounded corners for a modern look */
+}
+
+/* Scrollbar styling for WebKit browsers */
+iframe::-webkit-scrollbar {
+    width: 16px;
+}
+iframe::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+iframe::-webkit-scrollbar-thumb {
+    background-color: #555;
+    border-radius: 8px;
+    border: 4px solid #f1f1f1;
+}
+iframe::-webkit-scrollbar-thumb:hover {
+    background: #333;
+}
+
+/* Scrollbar styling for Firefox */
+iframe {
+    scrollbar-width: thick;
+    scrollbar-color: #555 #f1f1f1;
+}
+</style>
+
+
+## About
+
+I'm an ML researcher, interested in ensuring that AI progress is broadly beneficial---both by minimising AI-induced harms, and ensuring that the benefits are shared outside of the privileged few.
+
+I'm currently working within the UK government, developing auditing frameworks for LLM agents at the [UK's AI Safety Institute](https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute). Previously I worked at the [Center for AI Safety](https://www.safe.ai/), was a research intern at [UC Berkeley](https://humancompatible.ai/), studied LLM generalization under [Owain Evans](https://owainevans.github.io/) and completed my CS undergrad at the [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science).
+
+## Recent Works 
+
+<iframe src="assets/works.html" style="width:100%; height:200px; overflow-y: scroll;"></iframe>
+
+
