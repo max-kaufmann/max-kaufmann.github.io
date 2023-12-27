@@ -1,2 +1,2 @@
 # max-kaufmann.github.io
-My peronal website.
+My personal website
