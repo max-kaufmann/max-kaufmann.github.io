@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Max Kaufmann"
-  google-analytics: {{< env GOOGLE_ANALYTICS_KEY >}}
+  google-analytics: "{{< var GOOGLE_ANALYTICS_KEY >}}"
   favicon: assets/favicon-32x32.png
   navbar:
     left:
