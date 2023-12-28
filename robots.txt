@@ -1,1 +1,1 @@
-Sitemap: https://max-kaufmann.github.io/sitemap.xml
+Sitemap: https://maxkaufmann.com/sitemap.xml
