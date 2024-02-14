@@ -1,5 +1,7 @@
 project:
   type: website
+  resources: 
+  - papers/*
 
 website:
   title: "Max Kaufmann"
