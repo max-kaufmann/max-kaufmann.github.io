@@ -44,7 +44,7 @@ Max Kaufmann, Yiren Zhao, Ilia Shumailov, Robert Mullins, Nicolas Papernot<br>
 <strong>Dual-use biology capabilities across model scale</strong><br>
 Max Kaufmann, Gryphon Scientific, Jonas Sandbrink<br>
 <i>Presented to policymakers at the 2023 International AI Safety Summit.</i>
-<br>
+</a><br>
 
 <strong>MatAttack: Differential materials for adversarial attacks</strong><br>
 Dron Hazra\*, Max Kaufmann*, Dan Hendrycks<br><i> forthcoming </i>
