@@ -15,8 +15,6 @@ about:
       url: "https://twitter.com/Max_A_Kaufmann"
     - text:  "{{< iconify material-symbols mail-outline size=xl >}}"
       url: "mailto:max.a.kaufmann@gmail.com"
-    - text: "{{< iconify academicons cv-square size=xl >}}" 
-      url: "https://maxkaufmann.com/files/CV.pdf"
     
 comments: false
 ---
