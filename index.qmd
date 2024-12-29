@@ -55,9 +55,9 @@ iframe {
 
 ## About
 
-I'm an ML researcher, interested in ensuring that AI progress is broadly beneficial---both by minimising AI-induced harms, and ensuring that the benefits are shared outside of the privileged few. I'm current a PhD student at the University of Toronto, supervised by [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/), where I'm looking at studying LLM generalisation using influence functions.
+I'm an ML researcher, interested in ensuring that AI progress is broadly beneficial---both by minimising AI-induced harms, and ensuring that the benefits are shared outside of the privileged few. Currently, I'm a PhD student at the University of Toronto supervised by [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/), where I'm looking investigating how LLM generalize using influence functions.
 
-Before that I was part of the founding team at UK’s AI Safety Institute, where I haped scaled the organisation and built out a lot of our LLM agents. Before that I worked at the [Center for AI Safety](https://www.safe.ai/), was a research intern at [UC Berkeley](https://humancompatible.ai/), studied LLM generalization under [Owain Evans](https://owainevans.github.io/) and completed my CS undergrad at the [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science).
+Before that I was part of the founding team at UK’s AI Safety Institute, where I helped scale the organisation, and started our post-training team. Before that I worked at the [Center for AI Safety](https://www.safe.ai/), was a research intern at [UC Berkeley](https://humancompatible.ai/), studied LLM generalization under [Owain Evans](https://owainevans.github.io/) and completed my CS undergrad at the [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science).
 
 ## Recent Works 
 
