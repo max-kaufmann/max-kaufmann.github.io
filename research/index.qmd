@@ -46,10 +46,8 @@ Max Kaufmann, Gryphon Scientific, Jonas Sandbrink<br>
 <i>Presented to policymakers at the 2023 International AI Safety Summit.</i>
 </a><br>
 
-<strong>MatAttack: Differential materials for adversarial attacks</strong><br>
-Dron Hazra\*, Max Kaufmann*, Dan Hendrycks<br><i> forthcoming </i>
-
-
+<strong> RenderAttack: Hundreds of Adversarial Attacks Through Differentiable Texture Generation.</strong><br>
+Dron Hazra, Alex Bie, Max Kaufmann, Mantas Mazeika, Andy Zou, Dan Hendrycks and  Max Kaufmann<br><i> AMLF Workshop, NeurIPS 2024 </i>
 
 
   
