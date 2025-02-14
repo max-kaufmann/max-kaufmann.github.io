@@ -1,6 +1,6 @@
 ---
 title: "Max Kaufmann"
-subtitle: Research Engineer @ [UK AISI](https://www.gov.uk/government/publications/ai-safety-institute-overview/introducing-the-ai-safety-institute)
+subtitle: \smallPhD, University of Toronto / Vector Institute # Adding quotes for consistency
 image: assets/me.jpg
 about:
   template: trestles
@@ -55,14 +55,11 @@ iframe {
 
 ## About
 
-I'm an ML researcher, interested in ensuring that AI progress is broadly beneficial---both by minimising AI-induced harms, and ensuring that the benefits are shared outside of the privileged few.
 
-Currently, I'm a PhD student at the University of Toronto, supervised by [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/), using influence functions to investigate how LLMs generalize.
+Currently, I'm a PhD student at the University of Toronto, supervised by [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/), where I'm using influence functions to investigate how LLMs generalize.
 
-Before that I was part of the founding team at UK’s AI Safety Institute, where I helped scale the organisation, and started our post-training team. Before that I worked at the [Center for AI Safety](https://www.safe.ai/), was a research intern at [UC Berkeley](https://humancompatible.ai/), studied LLM generalization under [Owain Evans](https://owainevans.github.io/) and completed my CS undergrad at the [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science).
+Before that I was part of the founding team at UK's AI Safety Institute---I helped scale the organisation, and started our post-training team. Before that I worked at the [Center for AI Safety](https://www.safe.ai/), was a research intern at [UC Berkeley](https://humancompatible.ai/), studied LLM generalization under [Owain Evans](https://owainevans.github.io/) and completed my CS undergrad at the [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science).
 
 ## Recent Works 
 
 <iframe src="assets/works.html" style="width:100%; height:200px; overflow-y: scroll;"></iframe>
-
-
