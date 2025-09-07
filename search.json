@@ -4,41 +4,27 @@
     "href": "index.html",
     "title": "Max Kaufmann",
     "section": "",
-    "text": "Currently, I’m a PhD student at the University of Toronto, supervised by Roger Grosse, where I’m using influence functions to investigate how LLMs generalize.\nBefore that I was part of the founding team at UK’s AI Safety Institute—I helped scale the organisation, and started our post-training team. Before that I worked at the Center for AI Safety, was a research intern at UC Berkeley, studied LLM generalization under Owain Evans and completed my CS undergrad at the University of Cambridge."
+    "text": "Currently, I’m a Visiting Student Researcher at Google Deepmind, working on Chain-of-thought monitoring, but I’m normally a PhD student at the University of Toronto, supervised by Roger Grosse. I care a lot about making AI go well, and have spent my career so far doing technical research to help with that!\nBefore I started my PhD, I was part of the founding team at UK’s AI Safety Institute—I helped scale the organisation, and started our post-training team. I’ve been a research intern at UC Berkeley, worked with Owain Evans to better understand LLM generalization, and completed my CS undergrad at the University of Cambridge."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Max Kaufmann",
     "section": "",
-    "text": "Currently, I’m a PhD student at the University of Toronto, supervised by Roger Grosse, where I’m using influence functions to investigate how LLMs generalize.\nBefore that I was part of the founding team at UK’s AI Safety Institute—I helped scale the organisation, and started our post-training team. Before that I worked at the Center for AI Safety, was a research intern at UC Berkeley, studied LLM generalization under Owain Evans and completed my CS undergrad at the University of Cambridge."
-  },
-  {
-    "objectID": "index.html#recent-works",
-    "href": "index.html#recent-works",
-    "title": "Max Kaufmann",
-    "section": "Recent Works",
-    "text": "Recent Works"
+    "text": "Currently, I’m a Visiting Student Researcher at Google Deepmind, working on Chain-of-thought monitoring, but I’m normally a PhD student at the University of Toronto, supervised by Roger Grosse. I care a lot about making AI go well, and have spent my career so far doing technical research to help with that!\nBefore I started my PhD, I was part of the founding team at UK’s AI Safety Institute—I helped scale the organisation, and started our post-training team. I’ve been a research intern at UC Berkeley, worked with Owain Evans to better understand LLM generalization, and completed my CS undergrad at the University of Cambridge."
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Max Kaufmann",
     "section": "",
-    "text": "My current research focuses on developing techinical interventions which enable the governance of increasingly agentic AI systems, with a particular interest in the pre-deployment auditing and the post-deployment monitoring of LLM agents.\nPreviously I’ve worked on:\n\nAdversarial Robustness: Can we develop new threat models for adversarial robustness, that better capture what we care about? How can we make adversarial training more efficient?\nLLM Generalization: What are the limits of LLM generalization? How does strong generalisation ability link to concerns around the situational awareness of these systems?\nLLM Evals: Do AI systems pose biosecurity risks? How cam we effectively measure the capabilities of LLM agents?\n\nRight now, I’m thinking about:\n\nImproving LLM agents: What is the equivalent of DPO (i.e. an effective, simple, scalable finetuning technique) for LLM agents? What should we aim for when designing an evaluation suite that allows for fast iteration on the capabilities of LLM agents?\nMonitoring agentic AI systems: Which technical frameworks are needed to effectively monitor wide deployments of AI agents? Can we design monitoring frameworks which don’t centralize power?\nEnsuring global access to AI: How can we accelerate the global south’s participation in AI development? What role should western goverments play in widely spreading the benefits of AI?\n\nPlease reach out if you think we could collaborate!"
+    "text": "My previous work has mostly been on AI safety (broadly defined). I’ve worked on:\n\nAdversarial Robustness: Can we develop new threat models for adversarial robustness, that better capture what we care about? How can we make adversarial training more efficient?\nLLM Generalization: What are the limits of LLM generalization? How should we think about the ability for LLMs to make logical inferences from their training data?\nLLM Evals: How can we effectively measure the capabilities of LLM agents?\n\nRight now, I’m thinking about:\n\nTraining Data Attribution: How can we validate that TDA methods, such as influence functions, work for the types of complex generalisation that we see arise in LLMs?\nChain-of-thought Monitoring: What kinds of CoT optimisation pressure cause problems for CoT monitoring?\n\nPlease reach out if you want to talk about any of these topics!"
   },
   {
     "objectID": "research/index.html#research",
     "href": "research/index.html#research",
     "title": "Max Kaufmann",
     "section": "",
-    "text": "My current research focuses on developing techinical interventions which enable the governance of increasingly agentic AI systems, with a particular interest in the pre-deployment auditing and the post-deployment monitoring of LLM agents.\nPreviously I’ve worked on:\n\nAdversarial Robustness: Can we develop new threat models for adversarial robustness, that better capture what we care about? How can we make adversarial training more efficient?\nLLM Generalization: What are the limits of LLM generalization? How does strong generalisation ability link to concerns around the situational awareness of these systems?\nLLM Evals: Do AI systems pose biosecurity risks? How cam we effectively measure the capabilities of LLM agents?\n\nRight now, I’m thinking about:\n\nImproving LLM agents: What is the equivalent of DPO (i.e. an effective, simple, scalable finetuning technique) for LLM agents? What should we aim for when designing an evaluation suite that allows for fast iteration on the capabilities of LLM agents?\nMonitoring agentic AI systems: Which technical frameworks are needed to effectively monitor wide deployments of AI agents? Can we design monitoring frameworks which don’t centralize power?\nEnsuring global access to AI: How can we accelerate the global south’s participation in AI development? What role should western goverments play in widely spreading the benefits of AI?\n\nPlease reach out if you think we could collaborate!"
-  },
-  {
-    "objectID": "research/index.html#works",
-    "href": "research/index.html#works",
-    "title": "Max Kaufmann",
-    "section": "Works",
-    "text": "Works\n\n\n\nThe Reversal Curse: LLMs trained on “A is B” fail to learn “B is A” Lukas Berglund, Meg Tong, Max Kaufmann, Mikita Balesni, Asa Cooper Stickland, Tomasz Korbak, Owain Evans [arxiv] [tweet]\nTaken out of context: On measuring situational awareness in LLMs Lukas Berglund*, Asa Cooper Stickland*, Mikita Balesni*, Max Kaufmann*, Meg Tong*, Thomas Korbak, D. Kokotajlo, O. Evans [arxiv] [tweet]\nTesting Robustness Against Unforeseen Adversaries Max Kaufmann*, Daniel Kang*, Yi Sun*, Steven Basart, Xuwang Yin, Mantas Mazeika, Akul Arora, Adam Dziedzic, Franziska Boenisch, Tom Brown, Jacob Steinhardt, Dan Hendrycks [arxiv]\nEfficient Adversarial Training With Data Pruning Max Kaufmann, Yiren Zhao, Ilia Shumailov, Robert Mullins, Nicolas Papernot [arxiv]\nDual-use biology capabilities across model scale Max Kaufmann, Gryphon Scientific, Jonas Sandbrink Presented to policymakers at the 2023 International AI Safety Summit. \n RenderAttack: Hundreds of Adversarial Attacks Through Differentiable Texture Generation. Dron Hazra, Alex Bie, Max Kaufmann, Mantas Mazeika, Andy Zou, Dan Hendrycks and Max Kaufmann AMLF Workshop, NeurIPS 2024"
+    "text": "My previous work has mostly been on AI safety (broadly defined). I’ve worked on:\n\nAdversarial Robustness: Can we develop new threat models for adversarial robustness, that better capture what we care about? How can we make adversarial training more efficient?\nLLM Generalization: What are the limits of LLM generalization? How should we think about the ability for LLMs to make logical inferences from their training data?\nLLM Evals: How can we effectively measure the capabilities of LLM agents?\n\nRight now, I’m thinking about:\n\nTraining Data Attribution: How can we validate that TDA methods, such as influence functions, work for the types of complex generalisation that we see arise in LLMs?\nChain-of-thought Monitoring: What kinds of CoT optimisation pressure cause problems for CoT monitoring?\n\nPlease reach out if you want to talk about any of these topics!"
   }
 ]
