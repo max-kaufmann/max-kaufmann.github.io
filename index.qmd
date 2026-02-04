@@ -1,6 +1,6 @@
 ---
 title: "Max Kaufmann"
-subtitle: \smallPhD, University of Toronto / Vector Institute # Adding quotes for consistency
+subtitle: \small PhD Student, University of Toronto # Adding quotes for consistency
 image: assets/me.jpg
 about:
   template: trestles
@@ -55,11 +55,10 @@ iframe {
 
 ## About
 
+I care a lot about making AI go well, and have spent my career so far doing technical research to help with that!
 
-Currently, I'm a PhD student at the University of Toronto, supervised by [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/), where I'm using influence functions to investigate how LLMs generalize.
+Currently, I'm a Visiting Student Researcher at Google Deepmind, working on [Chain-of-thought monitoring](https://arxiv.org/abs/2507.11473). Normally, I'm a PhD student at the University of Toronto, where I am supervised by [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/).
 
-Before that I was part of the founding team at UK's AI Safety Institute---I helped scale the organisation, and started our post-training team. Before that I worked at the [Center for AI Safety](https://www.safe.ai/), was a research intern at [UC Berkeley](https://humancompatible.ai/), studied LLM generalization under [Owain Evans](https://owainevans.github.io/) and completed my CS undergrad at the [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science).
+Before I started my PhD, I was part of the founding team at UK's AI Safety Institute---I helped scale the organisation, and started our LLM agents team. I've also been a research intern at [UC Berkeley](https://humancompatible.ai/), worked with [Owain Evans](https://owainevans.github.io/) to better understand LLM generalization, and completed my CS undergrad at the [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science).
 
-## Recent Works 
 
-<iframe src="assets/works.html" style="width:100%; height:200px; overflow-y: scroll;"></iframe>
